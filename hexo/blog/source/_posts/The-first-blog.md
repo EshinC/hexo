@@ -1,8 +1,8 @@
 ---
 title: The first blog!
 date: 2018-07-21 19:37:56
-tags: 散文
-categories: 散文
+tags: 日记
+categories: 日志
 ---
 娱乐式开端
 ===============

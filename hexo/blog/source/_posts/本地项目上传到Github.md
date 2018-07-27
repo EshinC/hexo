@@ -56,6 +56,16 @@ git的安装
 第4步创建远程仓库的时候，如果勾选了Initialize this repository with a README（就是创建仓库的时候自动给你创建一个README文件），那么到了第6步将本地仓库内容推送到远程仓库的时候就会报一个failed to push some refs to https://github.com/++++ 的错。 这是由于新创建的那个仓库里面的README文件不在本地仓库目录中，这时可以通过以下命令先将内容合并以下：
 > git pull --rebase origin master
 
+后续维护上传
+---
+
+> git add .     或者    git add +项目修改名
+> git commit -m "注释内容"
+> git push -u origin master
+
+完毕！
+
 完
 ---
-以上，百度+实践后简单总结了一下上传到GitHub项目的过程，日后往能记住！
+
+以上，百度+实践后简单总结了一下上传到GitHub项目的过程，日后望能记住！
