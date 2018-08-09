@@ -5,7 +5,7 @@
 # Site
 title: ilcyz
 subtitle: 面朝大海，春暖花开
-description: The good seaman is known in bad weather.
+description: 快乐浅尝辄止, 黑白忧郁记事 
 keywords:
 author: Eugene Cui
 language: zh-Hans
@@ -36,7 +36,7 @@ titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
